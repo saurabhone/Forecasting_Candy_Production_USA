@@ -1,0 +1,2 @@
+# Forecasting_Candy_Production_USA
+Sweets, chocolates, and candy are universally enjoyed. In the US, there are holidays themed around giving candy! All this consumption first needs production. The dataset below shows monthly production of candy in the US. The industrial production index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories. 
